@@ -1,0 +1,37 @@
+_repo: Paz-e-Arbitragem_28914
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lima, S. de Magalhães (Sebastião de Magalhães)
+    aliases:
+    - De Magalhães Lima, S. (Sebastião)
+    - Lima, Sebastião de Magalhães
+    - Lima, Sebastiao de Magalhaes
+    - Magalhães Lima, S. de (Sebastião)
+    - Lima, Magalhães
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '9922'
+    url: http://www.gutenberg.org/2009/agents/9922
+    wikipedia: http://pt.wikipedia.org/wiki/Sebasti%C3%A3o_de_Magalh%C3%A3es_Lima
+description: ''
+gutenberg_bookshelf: PT Política e Sociedade
+gutenberg_issued: '2009-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28914'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peace'
+- !lcsh 'Pacifism'
+- !lcsh 'Arbitration (International law)'
+- !lcc 'HM'
+- !lcc 'JX'
+title: Paz e Arbitragem
+url: http://www.gutenberg.org/ebooks/28914
